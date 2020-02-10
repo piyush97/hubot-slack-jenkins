@@ -1,0 +1,13 @@
+[
+"hubot-github-pr-release",
+"hubot-github-deployments",  
+"hubot-diagnostics",
+  "hubot-help",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit"
+]
