@@ -5,6 +5,7 @@
   "author": "Piyush Mehta <me@piyushmehta.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "gitio2": "^3.1.0",
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
     "hubot-github-deployments": "^1.2.0",
